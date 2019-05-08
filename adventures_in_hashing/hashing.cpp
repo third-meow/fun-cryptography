@@ -1,6 +1,9 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+/*
+ * This hash func is not super useful because algo is implementation dependant
+ */ 
 hash<string> hash_func;
 
 int main(int argc, char *argv[]) {

@@ -28,6 +28,8 @@ def phi_method_2(num):
 
 # check both methods agree
 
+
+print('Calculating...')
 all_agreed = True
 for i in range(9999):
 
